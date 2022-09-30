@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm Jesse Mwangi a full stack developer student at business college helsinki🚀</div>  
+### <div align="center">I'm Jesse Mwangi a full stack developer student at business college helsinki 🚀</div>  
   
 
 - 🔭 I’m currently working as a freelance  
