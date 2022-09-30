@@ -126,20 +126,16 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Personal Logo 
 <!-- BLOG-POST-LIST:START -->  
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<div align="center"><img src="https://drive.bc.fi/portal/s/6690235911904772809.png" /></div>  
 
 <br/>  
-
-<div align="center">
-
-<img src="https://drive.google.com/file/d/1SNUUrrAi7WniBSwtMpJwGDVAvIxLC3hz/preview" width="640" height="480" allow="autoplay" align="center" />
-</div>  
+ 
   
 
 <br/>  
