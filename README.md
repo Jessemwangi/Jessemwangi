@@ -2,10 +2,10 @@
 
 ### Jesse Mwangi  
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C5603AQEnCqbYuYhycA/profile-displayphoto-shrink_400_400/0/1517287180834?e=1669852800&v=beta&t=3a8qutcha6RXeMqzmc1FIiNpDCOdGkUZGjoWMv3wcOY" align="center" style="width: 30%" /><br/>
-  <Span>Jesse Mwangi</span>
-</div>  
+<img src="https://github.com/Jessemwangi/Jessemwangi/blob/main/wallpaper.png" align="center" style="width: 100%" /><br/>
   
+</div>  
+  <br/>
 
 ### <div align="center">I'm Jesse Mwangi a full stack developer student at business college helsinki 🚀</div>  
   
