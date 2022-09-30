@@ -19,10 +19,6 @@ I am currently studying as a full-Stack Developer at Business College in Helsink
 
 Skills
 
-I am an accomplished database administrator, System Design and Developer with A degree in
-IT. Strong expertise Asp.net development using VB, C# and F#, Php and basic python
-programming languages, in addition I am well conversant with SQL server and MySQL
+I am an accomplished Full-Stack developer with skills in database administration, UX/UI Design.
+Strong expertise Asp.net development using VB, C# , basic Php programming languages, in addition I am well conversant with SQL server and MySQL
 database management tools.
-Having work in different ICT field for more than 10 years, I have vast experience that offer ICT
-driven solution to organization, its client / stakeholders and the community, I ensure
-organization target are meet and that data integrity and confidentiality is retain
