@@ -1,12 +1,16 @@
 # Jesse Mwangi - System Developer
 
-| <img src='./logo.png' width='30%'> | [Buy me a coffee](https://www.buymeacoffee.com/yourname) ---  [tel:+1234567890](tel:+1234567890) | [jessejzee@gmail.com](mailto:jessejzee@gmail.com)
+| <img src='./logo.png' width='50%'> | [Buy me a coffee](https://www.buymeacoffee.com/yourname) ---  [tel:+1234567890](tel:+1234567890) | [jessejzee@gmail.com](mailto:jessejzee@gmail.com)
 | --- | --- | --- |
 
 
 ---
 
-![Intro banner](./Jesse-black.png)
+<div style='background:black; width:100%; display:flex; flex-direction:column;border-radius:8px'>
+<img src='./Jesse-black.png'>
+</div>
+
+---
 
 ## Skills
 
