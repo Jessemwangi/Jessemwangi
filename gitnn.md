@@ -12,7 +12,7 @@
     justify-content: space-around;
     width:100%;
 '>
-<img src='./Jesse-black.png'>
+<img src='./Jesse-black.png' width='100%'>
 </div>
 
 ---
