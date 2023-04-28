@@ -128,7 +128,7 @@
 
 <br/>  
 
-<div align="center" style="background:black"><img src="./logo.png" width="167%" /></div>  
+<div align="center" style="background:white"><img src="./logo.png" width="40%" /></div>  
 
 <br/>  
  
