@@ -10,6 +10,7 @@
     background: black;
     display: flex;
     justify-content: space-around;
+    width:100%;
 '>
 <img src='./Jesse-black.png'>
 </div>
