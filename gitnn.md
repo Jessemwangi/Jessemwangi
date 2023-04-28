@@ -6,7 +6,11 @@
 
 ---
 
-<div style='background:black; width:100%; display:flex; flex-direction:column;border-radius:8px'>
+<div style='
+    background: black;
+    display: flex;
+    justify-content: space-around;
+'>
 <img src='./Jesse-black.png'>
 </div>
 
