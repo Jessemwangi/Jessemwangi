@@ -1,6 +1,6 @@
 # Jesse Mwangi - System Developer
 
-| <img src='./logo.png' width='50%'> | [Buy me a coffee](https://www.buymeacoffee.com/yourname) ---  [tel:+1234567890](tel:+1234567890) | [jessejzee@gmail.com](mailto:jessejzee@gmail.com)
+| <img src='./logo.png' width='50%'> | [Buy me a coffee](https://www.buymeacoffee.com/yourname)  | [jessejzee@gmail.com](mailto:jessejzee@gmail.com) ---  [tel:+1234567890](tel:+1234567890)
 | --- | --- | --- |
 
 
@@ -18,6 +18,13 @@
 ---
 
 ## Skills
+
+| Back Ends | Front End | Database | DevOps | Version Control |
+| --- | --- | --- |--- |--- |
+| C# / VB.NET | JavaScript | SQL Server / Postgress |CI / CD|GitHub|
+| Node Express | Reacts / Redux | |Azure |Bit Bucket|
+| ASP.NET / core | TypeScript| No SQL  |AWS |
+
 
 - DevOps
 - JavaScript
