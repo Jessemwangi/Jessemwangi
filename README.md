@@ -1,7 +1,7 @@
 
 
 ### Jesse Mwangi  
-<div style="text-align: center; background-color: #000000; color:blue" >
+<div style="text-align: center; background-color:black ; color:blue" >
 <img src="./Jesse-black.png" />
 </div>  
  
@@ -128,7 +128,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://drive.bc.fi/portal/s/6690235911904772809.png" /></div>  
+<div align="center" style="background:black"><img src="./logo.png" width="167%" /></div>  
 
 <br/>  
  
