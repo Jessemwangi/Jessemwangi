@@ -13,7 +13,7 @@
 - 🔭 I’m currently working as a freelance  
   
 
-- 🌱 I’m currently learning Javascript, Node and React at [https://www.bc.fi/ ) Helsinki  
+- 🌱 Currently freelance  
   
 
 - ❓ Ask me about anything related to **Javascript,React, Typscript, c# , VB.net, sql server, mysql, Git and scrum**  
