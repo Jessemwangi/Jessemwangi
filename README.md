@@ -1,11 +1,10 @@
 
 
 ### Jesse Mwangi  
-<div align="center">
-<img src="https://github.com/Jessemwangi/Jessemwangi/blob/main/wallpaper.png" align="center" style="width: 100%" /><br/>
-  
+<div style="text-align: center; background-color: #000000; color:blue" >
+<img src="./Jesse-black.png" />
 </div>  
-  <br/>
+ 
 
 ### <div align="center">I'm Jesse Mwangi a full stack developer 🚀</div>  
   
