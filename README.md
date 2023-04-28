@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Javascript, Node and React at [https://www.bc.fi/ ) Helsinki  
   
 
-- ❓ Ask me about anything related to **Javascript, c# , VB.net, sql server, mysql, Git and scrum**  
+- ❓ Ask me about anything related to **Javascript,React, Typscript, c# , VB.net, sql server, mysql, Git and scrum**  
   
 
 - ⚡ Fun fact: I am a manga person, and I can re-watch anime more than once  
