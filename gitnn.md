@@ -141,21 +141,21 @@ ___
 <h1 align="left">Connect</h1>
 
 <p align="center">
-  <a href="https://onis-emem.com" target="_blank">
+  <a href="https://whom.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/onis-emem/" target="_blank">
+  <a href="https://www.linkedin.com/in/jesse-mwangi/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://docs.google.com/document/d/144uEx5sTLf9MQfAjtuxsrzfaq1aMavgo/edit?usp=sharing&ouid=105918699478954208570&rtpof=true&sd=true" target="_blank">
+  <a href="https://drive.google.com/file/d/1C4zr0ehXG_sR1MhblL0F7YMOImH0DtcG/view?usp=sharing" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
 <div display="block" align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oniso20&hide=jupyter%20notebook,html&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessemwangi&hide=jupyter%20notebook,html&theme=default)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oniso20&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jessemwangi&theme=default&utcOffset=8)
 
 </div>
