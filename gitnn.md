@@ -31,10 +31,14 @@
 ### Be Informed
 
 <!-- [![Project 1](./beinformed.gif)](path/to/project/1) -->
-<div style='width:300px; height:250px; display:flex; flex-direction:column; background:black; object-fit: cover; gap:2rem;'>
+<div style='width:100%; max-height:300px; display:flex; flex-direction:row; background:black; object-fit: cover; gap:3rem;'>
+<div style='width:100%; background:black;'>
 <img src='./beinformed.gif' >
-<div>
+</div>
+<div style='padding:2rem'>
+<p style='display: flex; flex-direction: row; align-items: center;'>
 Beinformed is a social media application that allows you to create an account, write updates, upload images, and publish your write-ups based on the category they belong to, such as Science, Technology, Arts, etc. Users are able to modify their own published write-ups.
+</p>
 <br/>
 <a href='https://beinformed.onrender.com/'>Live site</a>
 </div>
@@ -44,12 +48,18 @@ Beinformed is a social media application that allows you to create an account, w
 
 ### SOS
 
-[![Project 2](./sos.gif)](path/to/project/2)
+<div style='width:100%; height:300px; display:flex; flex-direction:row; background:black; object-fit: cover; gap:3rem;'>
+
+<img src='./sos.gif' width='300px' style='background:black;' >
+<div style='padding:2rem'>
+<p style='display: flex; flex-direction: row; align-items: center;'>
 
 SOS is a mobile-first web application developed using Typescript and a Firebase Firestore backend. Its primary objective is to provide a quick and easy way to send a distress signal via SMS and email to a predefined list of contacts. The application is designed with simplicity in mind and optimized for use on mobile devices
-
+</p>
 <br/>
 <a href='https://sos-service.netlify.app/'>Live site</a>
+</div>
+</div>
 
 ---
 
