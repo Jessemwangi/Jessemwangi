@@ -56,7 +56,7 @@ ___
         <p>Beinformed is a social media application that allows you to create an account, write updates, upload images, and publish your write-ups based on the category they belong to, such as Science, Technology, Arts, etc. Users are able to modify their own published write-ups. &#128521;</p>
     </td>
 
- <td width="50%" height="150px" valign="top" align='center'>
+ <td width="50%" height="250px" valign="top" align='center'>
       <h3 align="left">SOS</h3>
        <a target="_blank" href="https://sos-service.netlify.app/" align='center' style='back-ground:black; width:100%; display:relative'>
             <img src="./sos.gif" height="150px"  alt="SOS"/>
