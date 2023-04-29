@@ -81,7 +81,7 @@ ___
   <tr>
     <td width="50%" height="150px" valign="top">
       <h3 align="left">Chef Guide</h3>
-        <a target="_blank" href="https://whom.vercel.app/">
+        <a target="_blank" href="https://taste-it.vercel.app/">
           <img src="./tasteIt.gif" width="100%" alt="Chef Guide"/>
         </a>
       <br />
@@ -89,7 +89,7 @@ ___
   <a href="https://github.com/Jessemwangi/TasteIT" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://taste-it.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
