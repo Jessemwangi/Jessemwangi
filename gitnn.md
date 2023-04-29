@@ -95,7 +95,7 @@ ___
       </p>
         <p>This full-stack <Strong>React </Strong> application was developed during my training at Business College Helsinki. The app allows users to enter ,review, rate favorite recipes and share them with others. The app is built using a <Strong>full-stack approach</strong>, with a backend server and database implemented using <Strong>Node.js and MongoDB</Strong> technologies. The frontend is built using <Strong>React and MUI</Strong>, allowing for a smooth and responsive user experience. Overall, this app demonstrates my full-stack developer ability to create a functional and user-friendly application. &#128640;</p>
     </td>
-    <td width="50%" height="150px" valign="top">
+    <td width="50%" height="150px" valign="top" style='overflow:hidden'>
       <h3 align="left">Who I am</h3>
         <a target="_blank" href="https://whom.vercel.app/">
           <img src="./jesse.gif" width="100%" alt="Jesse Mwangi"/>
