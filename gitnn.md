@@ -59,7 +59,7 @@ ___
  <td width="50%" height="150px" valign="top" align='center'>
       <h3 align="left">SOS</h3>
        <a target="_blank" href="https://sos-service.netlify.app/" align='center' style='back-ground:black; width:100%; display:relative'>
-            <img src="./sos.gif" height="100%"  alt="SOS"/>
+            <img src="./sos.gif" height="150px"  alt="SOS"/>
         </a>
 
 ___
