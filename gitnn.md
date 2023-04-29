@@ -30,11 +30,15 @@
 
 ### Be Informed
 
-[![Project 1](./beinformed.gif)](path/to/project/1)
-
+<!-- [![Project 1](./beinformed.gif)](path/to/project/1) -->
+<div style='width:300px; height:250px; display:flex; flex-direction:column; background:black; object-fit: cover; gap:2rem;'>
+<img src='./beinformed.gif' >
+<div>
 Beinformed is a social media application that allows you to create an account, write updates, upload images, and publish your write-ups based on the category they belong to, such as Science, Technology, Arts, etc. Users are able to modify their own published write-ups.
 <br/>
 <a href='https://beinformed.onrender.com/'>Live site</a>
+</div>
+</div>
 
 ---
 
