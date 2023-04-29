@@ -1,147 +1,75 @@
+# Jesse Mwangi - System Developer
+
+| <img src='./logo.png' width='30%'> | [Buy me a coffee](https://www.buymeacoffee.com/yourname)  | [jessejzee@gmail.com](mailto:jessejzee@gmail.com) ---  [tel:+1234567890](tel:+1234567890)
+| --- | --- | --- |
 
 
-### Jesse Mwangi  
-<div style="text-align: center; background-color:black ; color:blue" >
-<img src="./Jesse-black.png" />
-</div>  
- 
+---
 
-### <div align="center">I'm Jesse Mwangi a full stack developer 🚀</div>  
-  
-
-- 🔭 I’m currently working as a freelance  
-  
-
-- 🌱 Currently freelance  
-  
-
-- ❓ Ask me about anything related to **Javascript,React, Typscript, c# , VB.net, sql server, mysql, Git and scrum**  
-  
-
-- ⚡ Fun fact: I am a manga person, and I can re-watch anime more than once  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<div style='
+    background: black;
+    display: flex;
+    justify-content: space-around;
+    width:100%;
+'>
+<img src='./Jesse-black.png' width='100%'>
 </div>
 
-</td><td valign="top" width="33%">
+---
+
+## Skills
+
+| Back Ends | Front End | Database | DevOps | Version Control |
+| --- | --- | --- |--- |--- |
+| C# / VB.NET | JavaScript | SQL Server / Postgress |CI / CD|GitHub|
+| Node Express | Reacts / Redux | |Azure |Bit Bucket|
+| ASP.NET / core | TypeScript| No SQL  |AWS |
 
 
+## Projects
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
-<a href="https://woocommerce.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-</div>
+### Be Informed
 
-</td><td valign="top" width="33%">
+[![Project 1](./beinformed.gif)](path/to/project/1)
 
+Beinformed is a social media application that allows you to create an account, write updates, upload images, and publish your write-ups based on the category they belong to, such as Science, Technology, Arts, etc. Users are able to modify their own published write-ups.
+<br/>
+<a href='https://beinformed.onrender.com/'>Live site</a>
 
+---
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
+### SOS
 
-</td></tr></table>  
+[![Project 2](./sos.gif)](path/to/project/2)
 
-<br/>  
+SOS is a mobile-first web application developed using Typescript and a Firebase Firestore backend. Its primary objective is to provide a quick and easy way to send a distress signal via SMS and email to a predefined list of contacts. The application is designed with simplicity in mind and optimized for use on mobile devices
+
+<br/>
+<a href='https://sos-service.netlify.app/'>Live site</a>
+
+---
+
+### Who I am
+[![Project 3](./jesse.gif)](path/to/project/3)
+
+Introducing my full-stack developer portfolio application, built with React and Firebase Firestore database, named "whom". This web application serves as a platform for showcasing my projects, experience, and skills. The user can easily navigate through my portfolio, view my CV, and even download it in PDF format. Additionally, the application offers an option to leave an email message, as well as links to my other professional profiles, such as LinkedIn and GitHub.
+<br/>
+<a href='https://recipe-bqpt.onrender.com/'>Live site</a>
+
+---
 
 
-## Connect with me  
-<div align="center">
-<a href="https://stackoverflow.com/users/4101648/jesse-mwangi" target="_blank">
-<img src=https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png width="12%" alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/jessemwangi" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jesse-mwangi/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/fb.com/jesze" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://codepen.io/jessemwangi" target="_blank">
-<img src=https://s3-us-west-2.amazonaws.com/s.cdpn.io/1584356/codepen_logo.png alt=CodePen width="5%" style="margin-bottom: 5px;" /> codepen
-</a>  
-</div>  
-  
+### Chef Guide
 
-<br/>  
+ [![Project 4](./tasteIt.gif)](path/to/project/4)
 
+This full-stack React application was developed during my training at Business College Helsinki. The app allows users to enter their favorite recipes and share them with others. Users can also review and rate recipes entered by others, as well as leave comments on recipes they have tried. The app is built using a full-stack approach, with a backend server and database implemented using technologies such as Node.js and MongoDB. The frontend is built using React, allowing for a smooth and responsive user experience. Overall, this app demonstrates my skills as a full-stack developer and my ability to create a functional and user-friendly application.
+ <br/>
+<a href='https://recipe-bqpt.onrender.com/'>Live site</a>
 
+---
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jessemwangi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jessemwangi&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 
 
-## Personal Logo 
-<!-- BLOG-POST-LIST:START -->  
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center" style="background:white"><img src="./logo.png" width="40%" /></div>  
-
-<br/>  
- 
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/jessemwangi" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 

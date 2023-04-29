@@ -1,6 +1,6 @@
 # Jesse Mwangi - System Developer
 
-| <img src='./logo.png' width='50%'> | [Buy me a coffee](https://www.buymeacoffee.com/yourname)  | [jessejzee@gmail.com](mailto:jessejzee@gmail.com) ---  [tel:+1234567890](tel:+1234567890)
+| <img src='./logo.png' width='30%'> | [Buy me a coffee](https://www.buymeacoffee.com/yourname)  | [jessejzee@gmail.com](mailto:jessejzee@gmail.com) ---  [tel:+1234567890](tel:+1234567890)
 | --- | --- | --- |
 
 
@@ -26,25 +26,15 @@
 | ASP.NET / core | TypeScript| No SQL  |AWS |
 
 
-- DevOps
-- JavaScript
-- React
-- TypeScript
-- C#
-- SQL Server
-- PostgreSQL
-- NoSQL
-- Node.js + Express
-- HTML + CSS
-- CI/CD
-
 ## Projects
 
 ### Be Informed
 
 [![Project 1](./beinformed.gif)](path/to/project/1)
 
-With this online video converter you can upload your mp4, avi, WebM, flv, wmv and many other popular types of video and rich media files to turn them into high-quality animated GIFs. Source video file can be uploaded from your computer or smartphone or fetched from another server by URL.
+Beinformed is a social media application that allows you to create an account, write updates, upload images, and publish your write-ups based on the category they belong to, such as Science, Technology, Arts, etc. Users are able to modify their own published write-ups.
+<br/>
+<a href='https://beinformed.onrender.com/'>Live site</a>
 
 ---
 
@@ -52,11 +42,34 @@ With this online video converter you can upload your mp4, avi, WebM, flv, wmv an
 
 [![Project 2](./sos.gif)](path/to/project/2)
 
-With this online video converter you can upload your mp4, avi, WebM, flv, wmv and many other popular types of video and rich media files to turn them into high-quality animated GIFs. Source video file can be uploaded from your computer or smartphone or fetched from another server by URL.
+SOS is a mobile-first web application developed using Typescript and a Firebase Firestore backend. Its primary objective is to provide a quick and easy way to send a distress signal via SMS and email to a predefined list of contacts. The application is designed with simplicity in mind and optimized for use on mobile devices
+
+<br/>
+<a href='https://sos-service.netlify.app/'>Live site</a>
 
 ---
 
-[![Project 3](path/to/project/3.gif)](path/to/project/3) [![Project 4](path/to/project/4.gif)](path/to/project/4)
+### Who I am
+[![Project 3](./jesse.gif)](path/to/project/3)
+
+Introducing my full-stack developer portfolio application, built with React and Firebase Firestore database, named "whom". This web application serves as a platform for showcasing my projects, experience, and skills. The user can easily navigate through my portfolio, view my CV, and even download it in PDF format. Additionally, the application offers an option to leave an email message, as well as links to my other professional profiles, such as LinkedIn and GitHub.
+<br/>
+<a href='https://recipe-bqpt.onrender.com/'>Live site</a>
+
+---
+
+
+### Chef Guide
+
+ [![Project 4](./tasteIt.gif)](path/to/project/4)
+
+This full-stack React application was developed during my training at Business College Helsinki. The app allows users to enter their favorite recipes and share them with others. Users can also review and rate recipes entered by others, as well as leave comments on recipes they have tried. The app is built using a full-stack approach, with a backend server and database implemented using technologies such as Node.js and MongoDB. The frontend is built using React, allowing for a smooth and responsive user experience. Overall, this app demonstrates my skills as a full-stack developer and my ability to create a functional and user-friendly application.
+ <br/>
+<a href='https://recipe-bqpt.onrender.com/'>Live site</a>
+
 ---
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jessemwangi&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+
+
+
