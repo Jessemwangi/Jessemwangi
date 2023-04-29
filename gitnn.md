@@ -30,6 +30,8 @@
 
 ### Be Informed
 
+
+
 <!-- [![Project 1](./beinformed.gif)](path/to/project/1) -->
 <div style='width:100%; max-height:300px; display:flex; flex-direction:row; background:black; object-fit: cover; gap:3rem;'>
 <div style='width:100%; background:black;'>
@@ -64,22 +66,37 @@ SOS is a mobile-first web application developed using Typescript and a Firebase 
 ---
 
 ### Who I am
-[![Project 3](./jesse.gif)](path/to/project/3)
+
+<div style='width:100%; height:300px; display:flex; flex-direction:row; background:black; object-fit: cover; gap:3rem;'>
+
+<img src='./jesse.gif' height='45%' style='background:black;' >
+<div style='padding:2rem'>
+<p style='display: flex; flex-direction: row; align-items: center;'>
 
 Introducing my full-stack developer portfolio application, built with React and Firebase Firestore database, named "whom". This web application serves as a platform for showcasing my projects, experience, and skills. The user can easily navigate through my portfolio, view my CV, and even download it in PDF format. Additionally, the application offers an option to leave an email message, as well as links to my other professional profiles, such as LinkedIn and GitHub.
+</p>
 <br/>
 <a href='https://recipe-bqpt.onrender.com/'>Live site</a>
+</div>
+</div>
 
 ---
 
 
 ### Chef Guide
 
- [![Project 4](./tasteIt.gif)](path/to/project/4)
+ <div style='width:100%; height:300px; display:flex; flex-direction:row; background:black; object-fit: cover; gap:3rem;'>
+
+<img src='./tasteIt.gif' height='45%' style='background:black;' >
+<div style='padding:2rem'>
+<p style='display: flex; flex-direction: row; align-items: center;'>
 
 This full-stack React application was developed during my training at Business College Helsinki. The app allows users to enter their favorite recipes and share them with others. Users can also review and rate recipes entered by others, as well as leave comments on recipes they have tried. The app is built using a full-stack approach, with a backend server and database implemented using technologies such as Node.js and MongoDB. The frontend is built using React, allowing for a smooth and responsive user experience. Overall, this app demonstrates my skills as a full-stack developer and my ability to create a functional and user-friendly application.
+</p>
  <br/>
 <a href='https://recipe-bqpt.onrender.com/'>Live site</a>
+</div>
+</div>
 
 ---
 ## Github Stats  
