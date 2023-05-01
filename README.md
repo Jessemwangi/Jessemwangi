@@ -1,7 +1,7 @@
 # Jesse Mwangi - System Developer
 
 | <img src='./logo.png' width='25%' align='left'> | [ LinkedIn ](https://www.linkedin.com/in/jesse-mwangi/) | [jessejzee@gmail.com](mailto:jessejzee@gmail.com) --- [tel:+1234567890](tel:+1234567890) |
-| ---------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| ----------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
 ---
 
@@ -28,7 +28,6 @@
 
 ## Projects
 
-
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -53,7 +52,7 @@
         <p>Beinformed is a <strong> Fullstack (#express, #Amazon, #Postgress, #scss, #react) </strong> social media application that allows you to create an account, write updates, upload images, and publish your write-ups based on the category they belong to, such as Science, Technology, Arts, etc. Users are able to modify their own published write-ups. &#128521;</p>
     </td>
 
- <td width="50%" height="200px" valign="top" align='center'>
+ <td width="50%" height="150px" valign="top" align='center'>
       <h3 align="left">SOS</h3>
        <a target="_blank" href="https://sos-service.netlify.app/" align='center' style='back-ground:black; width:100%; display:relative'>
             <img src="./sos_wide.gif" height="370px"  alt="SOS"/>
@@ -109,14 +108,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 
-  ---
+---
 
 </p>
         <p>Introducing my<Strong> full-stack developer </Strong> portfolio application, built with React and <Strong>Firebase Firestore database</Strong>, named "whom". This web application serves as a platform for showcasing my projects, experience, and skills. The user can easily navigate through my portfolio, view my CV, and even download it in PDF format. Additionally, the application offers an option to leave an email message, as well as links to my other professional profiles, such as LinkedIn and GitHub.</p>
     </td>
   </tr>
-
-
 
   <tr>
     <td width="50%" height="150px" valign="top">
@@ -134,7 +131,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
       </p>
-        <p>This is a ReactJS-based application built with Firebase Firestore that allows you to plan your city trips. The app provides users with previews of cities, along with information about major tourist attractions to help you build your itinerary. It also includes Weather API data to provide up-to-date forecast information for your trip.. &#128640;</p>
+        <p>This is a ReactJS-based application built with Firebase Firestore that allows you to plan your city trips. The app provides users with previews of cities, along with information about major tourist attractions to help you build your itinerary. It also includes Weather API data to provide up-to-date forecast information for your trip... &#128640;</p>
     </td>
     <td width="50%" height="150px" valign="top" style='overflow:hidden'>
       <h3 align="left">TS Todo Drag and Drop</h3>
@@ -156,8 +153,6 @@
         <p>This <strong> TypeScript-based </strong> Todo Application is a personal project that showcases the power of TypeScript and the usage of the <strong> drag and drop package </strong>. With this application, users can create, delete, mark as done, and modify their todos with ease. TypeScript helps minimize errors during development, making it an ideal language to use for building <strong> reliable and scalable </strong> applications.</p>
     </td>
   </tr>
-
-
 
 </table>
 
@@ -205,5 +200,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jessemwangi&theme=default&utcOffset=8)
 
 </div>
-
-
