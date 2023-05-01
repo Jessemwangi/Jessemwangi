@@ -17,6 +17,7 @@
 <p style='text-align:justify;'>
 Hi there! My name is Jesse and I am a professional full stack developer who is passionate about exploring new ideas and approaches to solving problems. I enjoy thinking outside the box and considering a wide range of alternatives to find the best solutions. I thrive in roles that offer novelty and variety, and I am comfortable working in rapidly changing environments.
 </p>
+
 ---
 
 ## Skills
