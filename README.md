@@ -13,10 +13,16 @@
 '>
 <img src='./Jesse-black.png' width='100%'>
 </div>
-
+<br/>
+<p style='text-align:justify;'>
+Hi there! My name is Jesse and I am a professional full stack developer who is passionate about exploring new ideas and approaches to solving problems. I enjoy thinking outside the box and considering a wide range of alternatives to find the best solutions. I thrive in roles that offer novelty and variety, and I am comfortable working in rapidly changing environments.
+</p>
 ---
 
 ## Skills
+
+To sharpen my skills, I am constantly learning and discovering new technologies and approaches to software development. I am particularly interested in discovering new cultures and approaches, as I believe this provides valuable learning opportunities that can be applied to my work as a developer.
+
 
 | Back Ends      | Front End      | Database               | DevOps  | Version Control |
 | -------------- | -------------- | ---------------------- | ------- | --------------- |
@@ -27,6 +33,8 @@
 ---
 
 ## Projects
+
+My projects is a reflection of my commitment to software development and my passion for learning. I have created a variety of projects that showcase my skills as a full stack developer, and I am always looking for new challenges and opportunities to expand my knowledge and expertise.
 
 <table bordercolor="#66b2b2">
   
@@ -55,7 +63,7 @@
  <td width="50%" height="150px" valign="top" align='center'>
       <h3 align="left">SOS</h3>
        <a target="_blank" href="https://sos-service.netlify.app/" align='center' style='back-ground:black; width:100%; display:relative'>
-            <img src="./sos_wide.gif" height="270px"  alt="SOS"/>
+            <img src="./sos_wide.gif" height="280px"  alt="SOS"/>
         </a>
 
 ---
@@ -122,6 +130,7 @@
 
  <img src="./travelPlanner.gif" width="100%" alt="City Trip Planner"/>
 </a>
+
 ---
 
  <p align="center">
@@ -180,7 +189,23 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jessemwangi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<h1 align="left">Connect</h1>
+
+---
+
+### Statistics 
+
+<div display="block" align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessemwangi&hide=jupyter%20notebook,html&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jessemwangi&theme=default&utcOffset=8)
+
+</div>
+
+---
+
+## Connect
+I am excited to continue growing and developing as a full stack developer, and I am eager to explore new opportunities in the field. Thank you for considering my Github profile, and I look forward to connecting with you soon!
 
 <p align="center">
   <a href="https://whom.vercel.app/" target="_blank">
@@ -193,11 +218,3 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
-
-<div display="block" align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessemwangi&hide=jupyter%20notebook,html&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jessemwangi&theme=default&utcOffset=8)
-
-</div>
