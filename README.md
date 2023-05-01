@@ -55,7 +55,7 @@
  <td width="50%" height="150px" valign="top" align='center'>
       <h3 align="left">SOS</h3>
        <a target="_blank" href="https://sos-service.netlify.app/" align='center' style='back-ground:black; width:100%; display:relative'>
-            <img src="./sos_wide.gif" height="200px"  alt="SOS"/>
+            <img src="./sos_wide.gif" height="250px"  alt="SOS"/>
         </a>
 
 ---
@@ -101,7 +101,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/oniso20/taste-it" target="_blank">
+  <a href="https://github.com/Jessemwangi/whom" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://whom.vercel.app/" target="_blank">
@@ -118,7 +118,7 @@
   <tr>
     <td width="50%" height="150px" valign="top">
       <h3 align="left">City Trip Planner</h3>
-        <a target="_blank" href="https://taste-it.vercel.app/">
+        <a target="_blank" href="planntravel.vercel.app/">
 
  <img src="./travelPlanner.gif" width="100%" alt="City Trip Planner"/>
 
