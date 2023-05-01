@@ -55,7 +55,7 @@
  <td width="50%" height="150px" valign="top" align='center'>
       <h3 align="left">SOS</h3>
        <a target="_blank" href="https://sos-service.netlify.app/" align='center' style='back-ground:black; width:100%; display:relative'>
-            <img src="./sos_wide.gif" height="250px"  alt="SOS"/>
+            <img src="./sos_wide.gif" height="270px"  alt="SOS"/>
         </a>
 
 ---
@@ -120,7 +120,7 @@
       <h3 align="left">City Trip Planner</h3>
         <a target="_blank" href="planntravel.vercel.app/">
 
- <img src="./travelPlanner.gif" width="100%" alt="City Trip Planner"/>
+ <img src="./beinformed.gif" width="100%" alt="City Trip Planner"/>
 
 ---
 
