@@ -120,8 +120,8 @@
       <h3 align="left">City Trip Planner</h3>
         <a target="_blank" href="planntravel.vercel.app/">
 
- <img src="./beinformed.gif" width="100%" alt="City Trip Planner"/>
-
+ <img src="./travelPlanner.gif" width="100%" alt="City Trip Planner"/>
+</a>
 ---
 
  <p align="center">
