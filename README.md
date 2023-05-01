@@ -21,7 +21,7 @@
 | Back Ends      | Front End      | Database               | DevOps  | Version Control |
 | -------------- | -------------- | ---------------------- | ------- | --------------- |
 | C# / VB.NET    | JavaScript     | SQL Server / Postgress | CI / CD | GitHub          |
-| Node Express   | Reacts / Redux |                        | Azure   | Bit Bucket      |
+| Node Express   | Reacts / Redux | MySQL                | Azure   | Bit Bucket      |
 | ASP.NET / core | TypeScript     | No SQL                 | AWS     |
 
 ---
@@ -55,7 +55,7 @@
  <td width="50%" height="150px" valign="top" align='center'>
       <h3 align="left">SOS</h3>
        <a target="_blank" href="https://sos-service.netlify.app/" align='center' style='back-ground:black; width:100%; display:relative'>
-            <img src="./sos_wide.gif" height="370px"  alt="SOS"/>
+            <img src="./sos_wide.gif" height="200px"  alt="SOS"/>
         </a>
 
 ---
@@ -119,7 +119,8 @@
     <td width="50%" height="150px" valign="top">
       <h3 align="left">City Trip Planner</h3>
         <a target="_blank" href="https://taste-it.vercel.app/">
-          <img src="./travelPlanner.gif" width="100%" alt="Chef Guide"/>
+
+<img src="./travelPlanner.gif" width="100%" alt="City Trip Planner"/>
 
 ---
 
@@ -136,7 +137,7 @@
     <td width="50%" height="150px" valign="top" style='overflow:hidden'>
       <h3 align="left">TS Todo Drag and Drop</h3>
         <a target="_blank" href="https://projectmanger.onrender.com/">
-          <img src="./todoDrag.gif" width="100%" alt="Jesse Mwangi"/>
+          <img src="./todoDrag.gif" width="100%" alt="TS Todo"/>
         </a>
 
 ---
