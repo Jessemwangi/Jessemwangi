@@ -1,6 +1,6 @@
 # Jesse Mwangi - System Developer
 
-| <img src='./logo.png' width='25%' align='left'> | [ LinkedIn ](https://www.linkedin.com/in/jesse-mwangi/) | [jessejzee@gmail.com](mailto:jessejzee@gmail.com) --- [tel:+1234567890](tel:+1234567890) |
+| <img src='./logo.png' width='25%' align='left'> | [ LinkedIn ](https://www.linkedin.com/in/jesse-mwangi/) | [jessejzee@gmail.com](mailto:jessejzee@gmail.com) --- [tel:+358 410 3557](tel:+358 410 3557) |
 | ----------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
 ---
