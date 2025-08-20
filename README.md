@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="./Cover.png" alt="Jesse Mwangi - Senior Fullstack Developer" width="100%" />
+  <img src="./cover-trs.png" alt="Jesse Mwangi - Senior Fullstack Developer" width="100%" />
 </p>
 
 <!-- Personal Logo -->
